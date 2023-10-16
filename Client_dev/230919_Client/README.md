@@ -1,4 +1,4 @@
-# [GoldKing] Client_YMY (230919)
+# [GoldKing] ClientTeam (230919)
 
 ## Today's Task
 
@@ -7,6 +7,9 @@
   ### 2. GameManager Framework 세팅 
   - GameMode, PlayerController
   - GameState, PlayerState
+  
+  ### 2. Player Spawn / Respawn 구현 
+  - Event Death -> Re
   
   ### 3. Random Spawn Point 생성
   - Player 
@@ -87,9 +90,6 @@
 
 
 ----
-### **Connection** (GameMode - GameState)
-<br><br><br>
-
 
 
 ## 클라이언트 진행상황  

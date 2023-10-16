@@ -1,4 +1,4 @@
-# [GoldKing] Client_YMY (230918)
+# [GoldKing] ClientTeam (230918)
 
 ## Today's Task
 
@@ -117,17 +117,23 @@
 ## 클라이언트 진행상황  
 
 ### 3 Fountains
-- <HP / Stats / Gold> Fountain 
+- <HP / Stats / Gold> Fountain 기초<br>
+  
     ![img](img/3Fountains.png)
+
 ### Use of Each
-- HP Fountain 
+- HP Fountain<br> 
+  
     ![img](img/HPFountain.png)
 
-- Stats Fountain 
+- Stats Fountain<br>
+  
     ![img](img/StatsFountain.png)
 
-- Gold Fountain
+- Gold Fountain<br>
+  
     ![img](img/GoldFountain.png)
+  
   골드 계산은 (원래 보유골드 * Random Float - 분수 비용)으로 하였음  
   
 
