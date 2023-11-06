@@ -1,4 +1,7 @@
 # UE5_GoldKing_Project
+
+[튜토리얼 영상 링크](https://youtu.be/gFAPVcIxiAQ?feature=shared)
+
 Game dev PM/ Client/ Server (Unreal Engine 5) 
 
 
